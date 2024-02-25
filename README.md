@@ -15,7 +15,7 @@ Enhance your proficiency in data analysis and machine learning with our "Industr
 * Streamlit
 
 # overview 
-![image]()
+![image](https://github.com/ThanlakshmiM/Industrial_Copper_Modelling/blob/main/Copper_Industrial/Screenshot%20(126).png)
 
 
 # Data Preprocessing:
